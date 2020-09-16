@@ -1,1 +1,1 @@
-# workshop-python1
+# workshop-python
